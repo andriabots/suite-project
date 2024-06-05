@@ -87,3 +87,31 @@ margin-top: 15%;
 .work img{
     margin-top: -15%;
 }
+.footer{
+width: 377px;
+height: 280px;
+background-color: rgba(243, 237, 231, 1);
+margin: auto;
+border-radius: 10px;
+text-align: center;
+padding: 5%;
+}
+.footer h2{
+    font-family: 'Epilogue';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.4444444477558136px;
+    color: rgba(23, 35, 57, 1);
+    
+}
+.footer p{
+font-family: 'Epilogue';
+font-size: 15px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0.0833333358168602px;
+text-align: center;
+color: Grey;
+
+}
